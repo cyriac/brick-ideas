@@ -5,19 +5,10 @@ instruction PDF.
 
 ## Builds
 
-### Swinging Monkey Tree
-
-[![Swinging Monkey Tree](swinging-monkey/monkey-tree_thumbnail.png)](swinging-monkey)
-
-- Model: [`swinging-monkey/monkey-tree.io`](swinging-monkey/monkey-tree.io)
-- Instructions: [`swinging-monkey/monkey-tree.pdf`](swinging-monkey/monkey-tree.pdf)
-
-### Tasmanian Tiger
-
-[![Tasmanian Tiger](tasmanian-tiger/tasmanian-tiger_thumbnail.png)](tasmanian-tiger)
-
-- Model: [`tasmanian-tiger/tasmanian-tiger.io`](tasmanian-tiger/tasmanian-tiger.io)
-- Instructions: [`tasmanian-tiger/tasmanian-tiger.pdf`](tasmanian-tiger/tasmanian-tiger.pdf)
+| Preview | Build | Model | Instructions |
+|---|---|---|---|
+| [![Swinging Monkey Tree](swinging-monkey/monkey-tree_thumbnail.png)](swinging-monkey) | Swinging Monkey Tree | [`.io`](swinging-monkey/monkey-tree.io) | [`.pdf`](swinging-monkey/monkey-tree.pdf) |
+| [![Tasmanian Tiger](tasmanian-tiger/tasmanian-tiger_thumbnail.png)](tasmanian-tiger) | Tasmanian Tiger | [`.io`](tasmanian-tiger/tasmanian-tiger.io) | [`.pdf`](tasmanian-tiger/tasmanian-tiger.pdf) |
 
 ## extract_io_image.py
 
