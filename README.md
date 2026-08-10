@@ -1,4 +1,4 @@
-# Lego Builds
+# Brick Ideas
 
 BrickLink Studio (`.io`) builds, tracked with their preview thumbnail and
 instruction PDF.
