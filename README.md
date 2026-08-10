@@ -1,7 +1,9 @@
-# Brick Ideas
+# Brick Ideas 🧱
 
-BrickLink Studio (`.io`) builds, tracked with their preview thumbnail and
-instruction PDF.
+A growing collection of original LEGO builds designed in [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) —
+currently mostly critters, but not for long. Each one ships as a `.io` file
+you can open and remix yourself, plus a ready-to-print PDF if you'd rather
+just follow the steps and build.
 
 ## Builds
 
@@ -12,9 +14,17 @@ instruction PDF.
 | <a href="black-cat"><img src="black-cat/black-cat_thumbnail.png" width="200" alt="Black Cat"></a> | Black Cat | [`.io`](black-cat/black-cat.io) | [`.pdf`](black-cat/black-cat.pdf) |
 | <a href="whale"><img src="whale/whale_thumbnail.png" width="200" alt="Whale"></a> | Whale | [`.io`](whale/whale.io) | [`.pdf`](whale/whale.pdf) |
 
+## Building one yourself
+
+1. Install [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) (free).
+2. Open the model's `.io` file, or print the `.pdf` and build step by step.
+3. Want the real bricks? Studio can export a parts list you can price out
+   on BrickLink.
+
 ## extract_io_image.py
 
-Extracts the embedded preview thumbnail from a `.io` file (it's just a zip).
+Pulls the embedded preview thumbnail out of a `.io` file (it's just a zip
+under the hood) so the table above stays in sync with each model.
 
 ```
 python extract_io_image.py path/to/model.io [output_dir]
@@ -25,3 +35,7 @@ python extract_io_image.py --scan [root_dir]
 isn't already sitting next to it, and reports any `.io` missing an
 instruction PDF. PDFs are not auto-generated — export those manually from
 BrickLink Studio.
+
+## License
+
+CC BY-NC 4.0 — see [LICENSE](LICENSE). Non-commercial use, credit required.
