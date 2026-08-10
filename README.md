@@ -7,8 +7,8 @@ instruction PDF.
 
 | Preview | Build | Model | Instructions |
 |---|---|---|---|
-| [![Swinging Monkey Tree](swinging-monkey/monkey-tree_thumbnail.png)](swinging-monkey) | Swinging Monkey Tree | [`.io`](swinging-monkey/monkey-tree.io) | [`.pdf`](swinging-monkey/monkey-tree.pdf) |
-| [![Tasmanian Tiger](tasmanian-tiger/tasmanian-tiger_thumbnail.png)](tasmanian-tiger) | Tasmanian Tiger | [`.io`](tasmanian-tiger/tasmanian-tiger.io) | [`.pdf`](tasmanian-tiger/tasmanian-tiger.pdf) |
+| <a href="swinging-monkey"><img src="swinging-monkey/monkey-tree_thumbnail.png" width="200" alt="Swinging Monkey Tree"></a> | Swinging Monkey Tree | [`.io`](swinging-monkey/monkey-tree.io) | [`.pdf`](swinging-monkey/monkey-tree.pdf) |
+| <a href="tasmanian-tiger"><img src="tasmanian-tiger/tasmanian-tiger_thumbnail.png" width="200" alt="Tasmanian Tiger"></a> | Tasmanian Tiger | [`.io`](tasmanian-tiger/tasmanian-tiger.io) | [`.pdf`](tasmanian-tiger/tasmanian-tiger.pdf) |
 
 ## extract_io_image.py
 
