@@ -1,6 +1,6 @@
 # Brick Ideas 🧱
 
-A growing collection of original LEGO builds designed in [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) —
+A growing collection of inspired-by LEGO builds designed in [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) —
 currently mostly critters, but not for long. Each one ships as a `.io` file
 you can open and remix yourself, plus a ready-to-print PDF if you'd rather
 just follow the steps and build.
