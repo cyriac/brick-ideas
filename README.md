@@ -9,6 +9,8 @@ instruction PDF.
 |---|---|---|---|
 | <a href="swinging-monkey"><img src="swinging-monkey/monkey-tree_thumbnail.png" width="200" alt="Swinging Monkey Tree"></a> | Swinging Monkey Tree | [`.io`](swinging-monkey/monkey-tree.io) | [`.pdf`](swinging-monkey/monkey-tree.pdf) |
 | <a href="tasmanian-tiger"><img src="tasmanian-tiger/tasmanian-tiger_thumbnail.png" width="200" alt="Tasmanian Tiger"></a> | Tasmanian Tiger | [`.io`](tasmanian-tiger/tasmanian-tiger.io) | [`.pdf`](tasmanian-tiger/tasmanian-tiger.pdf) |
+| <a href="black-cat"><img src="black-cat/black-cat_thumbnail.png" width="200" alt="Black Cat"></a> | Black Cat | [`.io`](black-cat/black-cat.io) | [`.pdf`](black-cat/black-cat.pdf) |
+| <a href="whale"><img src="whale/whale_thumbnail.png" width="200" alt="Whale"></a> | Whale | [`.io`](whale/whale.io) | [`.pdf`](whale/whale.pdf) |
 
 ## extract_io_image.py
 
