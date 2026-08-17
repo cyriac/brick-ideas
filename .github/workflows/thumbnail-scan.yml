@@ -2,6 +2,7 @@ name: Thumbnail scan
 
 on:
   push:
+    branches: [master, main]
     paths:
       - "**/*.io"
   workflow_dispatch:
