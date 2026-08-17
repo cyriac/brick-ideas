@@ -13,7 +13,9 @@ just follow the steps and build.
 | <a href="tasmanian-tiger"><img src="tasmanian-tiger/tasmanian-tiger_thumbnail.png" width="200" alt="Tasmanian Tiger"></a> | Tasmanian Tiger | [`.io`](tasmanian-tiger/tasmanian-tiger.io) | [`.pdf`](tasmanian-tiger/tasmanian-tiger.pdf) |
 | <a href="black-cat"><img src="black-cat/black-cat_thumbnail.png" width="200" alt="Black Cat"></a> | Black Cat | [`.io`](black-cat/black-cat.io) | [`.pdf`](black-cat/black-cat.pdf) |
 | <a href="whale"><img src="whale/whale_thumbnail.png" width="200" alt="Whale"></a> | Whale | [`.io`](whale/whale.io) | [`.pdf`](whale/whale.pdf) |
-
+| <a href="platypus"><img src="platypus/platypus_thumbnail.png" width="200" alt="Platypus"></a> | Platypus | [`.io`](platypus/platypus.io) | [`.pdf`](platypus/platypus.pdf) |
+| <a href="recliner"><img src="recliner/recliner_thumbnail.png" width="200" alt="Recliner"></a> | Recliner | [`.io`](recliner/recliner.io) | [`.pdf`](recliner/recliner.pdf) |
+| <a href="recliner-improved"><img src="recliner-improved/recliner-improved_thumbnail.png" width="200" alt="Recliner Improved"></a> | Recliner Improved | [`.io`](recliner-improved/recliner-improved.io) | [`.pdf`](recliner-improved/recliner-improved.pdf) |
 ## Building one yourself
 
 1. Install [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) (free).
